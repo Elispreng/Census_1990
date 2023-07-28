@@ -1,5 +1,4 @@
-# Census_1990
-# Project-2: Jumping into the Middle Class 
+# Jumping into the Middle Class in the 1990 Census
 ![alt text](https://github.com/Elispreng/Project-2/blob/main/US%20Income.jpg)
 
 # Data Science and American Middle Class
