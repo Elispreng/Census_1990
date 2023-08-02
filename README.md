@@ -12,7 +12,7 @@ This dataset looks at US residents who make more or less than fifty thousand dol
 /are the most significant facors for entry into US middle class. 
 
 ### Data:
-Adult Income Datat Set: [https://www.kaggle.com/datasets/wenruliu/adult-income-dataset]
+[Adult Income Datat Set](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
 
 
 ## Methods
