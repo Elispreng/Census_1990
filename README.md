@@ -65,7 +65,7 @@ greater finacial security earlier in life.
 Another limitation is the dataset which does not match US Census statistics. 
 - Race. In the dataset the percentage of blacks is 8% and the US census is at 14%. 
 - Gender: In the dataset females compose 33% and US census statistics hover around 50% +/-3 percent.
-- Relationship: The husband category composes 40% of the data and does match the close to 50% of males being married. 
+- Relationship: The husband category composes 40% of the data and does match the close to 50% of males being married.
 
 ## Action Plan
 I recommend closely checking all census data sets  with US Statistics and not using this data set. 
