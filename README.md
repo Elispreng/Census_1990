@@ -4,12 +4,12 @@
 # Data Science and American Middle Class
 ## Anazlyzing US Incomes Greater and Less Than 50K
 
-**Eli Spreng**: 
+**Eli Spreng** 
 
 ### Topic:
 
-This dataset looks at US residents who make more or less than fifty thousand dollars, a benchmark for lower middle class life. Interested parties may wonder what is
-/are the most significant facors for entry into US middle class. 
+This dataset looks at US residents who make more or less than fifty thousand dollars, a benchmark for lower middle class life. Interested parties
+may wonder what are the most significant factors for entry into US middle class. 
 
 ### Data:
 [Adult Income Data Set](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
@@ -55,10 +55,10 @@ outcome
      
 ## Recommendations:
 
-From these metrics, the random forest model is the best model with accuracy. For interested stakeholders, more attention should be paid to age and educating 
-people about wealth management and increasing their financial literacy regardless of educational status. Another recommendation is to aim these programs
-at females to help move into the middle class sooner. Both  of these focused educational efforts could help more people attain greater finacial security earlier
-in life. 
+From these metrics, the random forest model is the best model with accuracy. For interested stakeholders, more attention should be paid to age and 
+educating people about wealth management and increasing their financial literacy regardless of educational status. Another recommendation is to aim 
+these programs at females to help move into the middle class sooner. Both  of these focused educational efforts could help more people attain
+greater finacial security earlier in life. 
 
 ## Limitations & Next Steps
 
