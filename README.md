@@ -15,11 +15,11 @@ may wonder what are the most significant factors for entry into US middle class.
 [Adult Income Data Set](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
 
 
-## Methods
+## Methods:
 - To perform this analysis the data was cleaned and then exploratory and explanatory visuals offer insights
 - Machine learning using classification metrics provides another way to understand the income group. 
 
-## Results
+## Results:
 
 #### Visual 1: Barplot Graph Showing Income and Age
 ![alt text](https://github.com/Elispreng/Project-2/blob/main/Income%20and%20Age.png)
