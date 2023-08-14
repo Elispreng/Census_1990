@@ -68,7 +68,7 @@ Another limitation is the dataset which does not match US Census statistics.
 - Relationship: The husband category composes 40% of the data and does match the close to 50% of males being married.
 
 ## Action Plan
-I recommend closely checking all census data sets  with US Statistics and not using this data set. 
+I recommend closely checking all census data sets  with US Statistics and not using this specific data set. 
 
 ### For further information
 
