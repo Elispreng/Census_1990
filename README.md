@@ -26,7 +26,7 @@ may wonder what are the most significant factors for entry into US middle class.
 
 This barplot shows a relationship between income and age. More specifically, the liklihood of earning more than 50K occurs in the mid-forties. 
 
-#### Visual 2 Bar  Graph Showing Outlet Year and MRP
+#### Visual 2 Bar Graph Showing Gender, Education, and Age
 
 ![alt text](https://github.com/Elispreng/Project-2/blob/main/Income_Education%20and%20Gender.png)
 
